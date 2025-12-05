@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/LessCode.EFCore.IntegrationTests/LessCode.EFCore.IntegrationTests.csproj" />
+    <Project Path="Tests/LessCode.EFCore.StronglyTypedIdGenerator.UnitTests/LessCode.EFCore.StronglyTypedIdGenerator.UnitTests.csproj" />
+  </Folder>
+  <Project Path="LessCode.EFCore.StronglyTypedIdCommons/LessCode.EFCore.StronglyTypedIdCommons.csproj" />
+  <Project Path="LessCode.EFCore.StronglyTypedIdGenerator/LessCode.EFCore.StronglyTypedIdGenerator.csproj" />
+  <Project Path="LessCode.EFCore/LessCode.EFCore.csproj" />
+</Solution>
